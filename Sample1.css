@@ -4,3 +4,8 @@ body
     font-family: Corbel;
 
 }
+p{
+    color: brown;
+    font-style: italic;
+    border: 2px solid Black;
+}
